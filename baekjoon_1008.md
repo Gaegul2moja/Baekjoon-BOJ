@@ -1,5 +1,7 @@
 ## BaekJoon/BOJ [JAVA] A/B_1008
 
+단계: 사칙연산 도전하기
+
 HINT: java의 데이터 형을 유의하자
 int, byte, short, long -> 정수형
 float, double -> 실수형
